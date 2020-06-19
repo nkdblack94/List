@@ -1,3 +1,7 @@
+package practice.test;
+
+import practice.list.MyLinkedList;
+
 public class TestMyLinkedList {
     public static void main(String[] args) {
         System.out.println("/=/=/=/= TESTING /=/=/=/=");

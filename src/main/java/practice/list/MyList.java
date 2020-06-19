@@ -1,3 +1,5 @@
+package practice.list;
+
 import java.util.Arrays;
 
 public class MyList <E>{

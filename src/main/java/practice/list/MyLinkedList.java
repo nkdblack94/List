@@ -1,3 +1,5 @@
+package practice.list;
+
 import javafx.scene.Node;
 
 public class MyLinkedList {
